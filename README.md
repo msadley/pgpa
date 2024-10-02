@@ -33,6 +33,10 @@ If you don't see the `Anywhere`, open `Terminal`, type `sudo spctl --master-disa
     <img src="https://raw.githubusercontent.com/dysquard/pgpa/master/macSecurity.png"  width="1000"/>
 </p>
 
+## Activator for Linux
+- Run ´chmod +x activator.sh´ to grant the activator permission to be executed.
+
+- Run ´./activator.sh´ to start the activator
 
 ## Steps
 - Connect your phone to PC via USB cable.
@@ -76,4 +80,5 @@ For Windows users, if it always prompt `phone not found`, you should **install t
  
 ## 3rd Party Video Tutorial
 <a href="https://www.youtube.com/watch?v=rtNd_3YRicw" target="_blank">https://www.youtube.com/watch?v=rtNd_3YRicw</a>
+
 
